@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 FNB App Academy 2026
+# FNB App Academy 2026
 
 ### _Learning • Building • Growing as a Software Developer_
 
@@ -19,7 +19,7 @@
 
 ---
 
-# 📖 About the Repository
+# About the Repository
 
 Welcome to my **FNB App Academy Portfolio**.
 
@@ -31,7 +31,7 @@ This repository serves as both a learning archive and a portfolio showcasing my 
 
 ---
 
-# 🎯 Repository Objectives
+# Repository Objectives
 
 - Learn modern software development principles
 - Strengthen Python programming skills
@@ -45,28 +45,28 @@ This repository serves as both a learning archive and a portfolio showcasing my 
 
 ---
 
-# 📚 FNB App Academy Curriculum
+# FNB App Academy Curriculum
 
 | Module                              | Description                                                          |   Status    |
 | ----------------------------------- | -------------------------------------------------------------------- | :---------: |
-| 🐍 Introduction to Python           | Python syntax, variables, input/output, and programming fundamentals |     ✅      |
-| 🔤 Manipulating Strings             | String methods, formatting, slicing, concatenation, and validation   |     ✅      |
-| 🔢 Manipulating Numbers             | Arithmetic operations, mathematical functions, and calculations      |     ✅      |
-| 💾 Storage and Access               | Variables, lists, dictionaries, tuples, and data access              |     ✅      |
-| 🔀 Selection of Tasks               | Conditional statements using `if`, `elif`, and `else`                |     ✅      |
-| 🔁 Repeating Tasks                  | `for` loops, `while` loops, iteration, and loop control              |     ✅      |
-| 💡 Design Thinking                  | User-centered design, brainstorming, planning, and problem solving   | ⏳ Upcoming |
-| 🏗 Object-Oriented Programming      | Classes, objects, inheritance, encapsulation, and polymorphism       | ⏳ Upcoming |
-| 📂 File Handling & Error Management | Reading/writing files, exception handling, and debugging             | ⏳ Upcoming |
-| 🎨 Kivy UI Basics                   | Creating graphical user interfaces with Kivy                         | ⏳ Upcoming |
-| 📱 Multi-Screen App Development     | Building applications with multiple screens and navigation           | ⏳ Upcoming |
-| 🌐 APIs & Live Data                 | Working with APIs and displaying real-time information               | ⏳ Upcoming |
-| 🚀 Build Sprint                     | Developing an application using Agile principles                     | ⏳ Upcoming |
-| 🏆 Final App Showcase               | Presenting and demonstrating the completed project                   | ⏳ Upcoming |
+| Introduction to Python           | Python syntax, variables, input/output, and programming fundamentals |     ✅      |
+| Manipulating Strings             | String methods, formatting, slicing, concatenation, and validation   |     ✅      |
+| Manipulating Numbers             | Arithmetic operations, mathematical functions, and calculations      |     ✅      |
+| Storage and Access               | Variables, lists, dictionaries, tuples, and data access              |     ✅      |
+| Selection of Tasks               | Conditional statements using `if`, `elif`, and `else`                |     ✅      |
+| Repeating Tasks                  | `for` loops, `while` loops, iteration, and loop control              |     ✅      |
+| Design Thinking                  | User-centered design, brainstorming, planning, and problem solving   | ⏳ Upcoming |
+| Object-Oriented Programming      | Classes, objects, inheritance, encapsulation, and polymorphism       | ⏳ Upcoming |
+| File Handling & Error Management | Reading/writing files, exception handling, and debugging             | ⏳ Upcoming |
+| Kivy UI Basics                   | Creating graphical user interfaces with Kivy                         | ⏳ Upcoming |
+| Multi-Screen App Development     | Building applications with multiple screens and navigation           | ⏳ Upcoming |
+| APIs & Live Data                 | Working with APIs and displaying real-time information               | ⏳ Upcoming |
+| Build Sprint                     | Developing an application using Agile principles                     | ⏳ Upcoming |
+| Final App Showcase               | Presenting and demonstrating the completed project                   | ⏳ Upcoming |
 
 ---
 
-# 🧠 Skills Acquired
+# Skills Acquired
 
 Throughout the academy, I gained practical experience in:
 
@@ -88,7 +88,7 @@ Throughout the academy, I gained practical experience in:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -106,7 +106,7 @@ Throughout the academy, I gained practical experience in:
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 fnb_academy/
@@ -164,7 +164,7 @@ fnb_academy/
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 | Project                      | Description                         |
 | ---------------------------- | ----------------------------------- |
@@ -176,7 +176,7 @@ fnb_academy/
 
 ---
 
-# 💻 Getting Started
+# Getting Started
 
 Clone the repository:
 
@@ -198,17 +198,18 @@ code .
 
 ---
 
-# 📈 Repository Statistics
+#  Repository Statistics
 
 > GitHub automatically updates these badges.
 
 ![Top Language](https://img.shields.io/github/languages/top/Samukelo-Nkosi/fnb_academy)
 ![Repo Size](https://img.shields.io/github/repo-size/Samukelo-Nkosi/fnb_academy)
 ![Last Commit](https://img.shields.io/github/last-commit/Samukelo-Nkosi/fnb_academy)
+[![Python package](https://github.com/Samukelo-Nkosi/fnb_academy/actions/workflows/python-package.yml/badge.svg?event=workflow_run)](https://github.com/Samukelo-Nkosi/fnb_academy/actions/workflows/python-package.yml)
 
 ---
 
-# 🌟 Learning Outcomes
+#  Learning Outcomes
 
 By completing the FNB App Academy, I have strengthened my ability to:
 
@@ -223,7 +224,7 @@ By completing the FNB App Academy, I have strengthened my ability to:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 This repository contains my coursework and projects completed during the FNB App Academy.
 
@@ -231,7 +232,7 @@ Suggestions, improvements, and feedback are welcome through Issues and Pull Requ
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
@@ -239,22 +240,22 @@ See the `LICENSE` file for details.
 
 ---
 
-# 👨🏽‍💻 Author
+# Author
 
 ## Samukelo Nkosi
 
 **Aspiring Software Developer**
 
-- 🎓 Diploma in ICT Student
-- 💻 FNB App Academy Participant
-- 🌱 Passionate about Software Development
-- 🚀 Continuously learning and building practical applications
+-  Diploma in ICT Student
+-  FNB App Academy Participant
+-  Passionate about Software Development
+-  Continuously learning and building practical applications
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this repository helpful or interesting, consider giving it a star please!
+### If you found this repository helpful or interesting, consider giving it a star please!
 
 **_"Every expert was once a beginner who kept learning."~SK NKOSI_**
 
