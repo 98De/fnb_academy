@@ -13,6 +13,7 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Samukelo-Nkosi/fnb_academy?style=for-the-badge)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/Samukelo-Nkosi/fnb_academy?style=for-the-badge)
 ![GitHub Contributors](https://img.shields.io/github/contributors/Samukelo-Nkosi/fnb_academy?style=for-the-badge)
+[![Python package](https://github.com/Samukelo-Nkosi/fnb_academy/actions/workflows/python-package.yml/badge.svg?event=workflow_run)](https://github.com/Samukelo-Nkosi/fnb_academy/actions/workflows/python-package.yml)
 
 </div>
 
